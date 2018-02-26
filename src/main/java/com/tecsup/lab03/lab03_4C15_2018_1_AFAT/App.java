@@ -13,6 +13,8 @@ public class App
       Metodos met=new Metodos();
      met.Suma();
      met.Resta();
+     Metodos.division();
+     Metodos.multiplicacion();
     }
    
 }
