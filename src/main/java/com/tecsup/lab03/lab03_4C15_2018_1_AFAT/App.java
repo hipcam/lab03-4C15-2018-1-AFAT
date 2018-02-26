@@ -11,8 +11,6 @@ public class App
     public static void main( String[] args )
     {
       Metodos met=new Metodos();
-     met.Suma();
-     met.Resta();
      Metodos.division();
      Metodos.multiplicacion();
     }
